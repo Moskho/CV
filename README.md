@@ -2,7 +2,11 @@
 CV de Moussa Coulibaly étudiant lycée Turgot BTS informatique Cybersécurité
 ##competence
 j'ai des competence en sisr
-###systeme
--windows
--linux
--unix
+##competence
+html5
+virtualisation
+dev
+cbersecurite
+reseau
+
+
