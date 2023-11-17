@@ -37,9 +37,10 @@
 - Identité Numérique
 
 ### Diplome et certification
--Bac
--brevet
--Freecodecamp
+- Bac
+- brevet
+- freecodecamp
+
 
 ### Langues
 - Français
