@@ -8,6 +8,7 @@
 -Réseau
 -Cybersécurité
 -langue
+-Gestion de projet
 
 ### Développement
 - SQL
