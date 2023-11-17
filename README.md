@@ -18,6 +18,8 @@
 - PHP
 - Bootstrap
 - GitHub
+- visual studio code
+- laragon
 
 ### Système 
 - Administration Windows
@@ -34,9 +36,14 @@
 - RGPD
 - Identité Numérique
 
+### Diplome et certification
+-Bac
+-brevet
+-Freecodecamp
+
 ### Langues
 - Français
 - Anglais
-- Soninké(langue maternelles)
+- Soninké(langue maternelle)
 
 
